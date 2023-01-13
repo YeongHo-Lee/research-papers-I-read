@@ -19,3 +19,7 @@
 - Hirano, Keisuke, and Guido W. Imbens. "The propensity score with continuous treatments." Applied Bayesian modeling and causal inference from incomplete-data perspectives 226164 (2004): 73-84.[[pdf]](https://www.math.mcgill.ca/dstephens/PSMMA/Articles/HIrano-Imbens-2004.pdf)
 - Kreif, Noémi, et al. "Evaluation of the effect of a continuous treatment: a machine learning approach with an application to treatment for traumatic brain injury." Health economics 24.9 (2015): 1213-1228.[[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hec.3189)
 - Fong, Christian, Chad Hazlett, and Kosuke Imai. "Covariate balancing propensity score for a continuous treatment: Application to the efficacy of political advertisements." The Annals of Applied Statistics 12.1 (2018): 156-177.[[pdf]](https://imai.fas.harvard.edu/research/files/CBGPS.pdf)
+
+
+# Deep Learning
+- 
