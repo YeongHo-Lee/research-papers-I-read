@@ -13,5 +13,6 @@
 - Hirano, Keisuke, and Guido W. Imbens. "Estimation of causal effects using propensity score weighting: An application to data on right heart catheterization." Health Services and Outcomes research methodology 2.3 (2001): 259-278.[[pdf]](https://scholar.harvard.edu/files/imbens/files/estimation_of_causal_effects_using_propensity_score_weighting_an_application_to_data_on_right_hear_catherization.pdf)
 - Hirano, Keisuke, and Guido W. Imbens. "The propensity score with continuous treatments." Applied Bayesian modeling and causal inference from incomplete-data perspectives 226164 (2004): 73-84.[[pdf]](http://rogosateaching.com/somgen290/cc_9.pdf)
 - Kreif, Noémi, et al. "Evaluation of the effect of a continuous treatment: a machine learning approach with an application to treatment for traumatic brain injury." Health economics 24.9 (2015): 1213-1228.[[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hec.3189)
+- Fong, Christian, Chad Hazlett, and Kosuke Imai. "Covariate balancing propensity score for a continuous treatment: Application to the efficacy of political advertisements." The Annals of Applied Statistics 12.1 (2018): 156-177.[[pdf]](https://imai.fas.harvard.edu/research/files/CBGPS.pdf)
 
 # Deep Learning
