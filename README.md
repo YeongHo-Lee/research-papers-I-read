@@ -5,7 +5,7 @@
 # Machine Learning
 
 ## Multi-armed Bandit
-- 
+- Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/1772690.1772758)
 
 ## Causal Inference
 - Rubin, Donald B. "Estimating causal effects of treatments in randomized and nonrandomized studies." Journal of educational Psychology 66.5 (1974): 688. [[pdf]](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf)
