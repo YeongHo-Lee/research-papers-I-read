@@ -7,10 +7,10 @@
 
 ## Multi-armed Bandit
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/1772690.1772758)
-- Abbasi-Yadkori, Yasin, Dávid Pál, and Csaba Szepesvári. "Improved algorithms for linear stochastic bandits." Advances in neural information processing systems 24 (2011).[[pdf]](https://proceedings.neurips.cc/paper/2011/file/e1d5be1c7f2f456670de3d53c7b54f4a-Paper.pdf)
 - Agrawal, Shipra, and Navin Goyal. "Thompson sampling for contextual bandits with linear payoffs." International conference on machine learning. PMLR, 2013. [[pdf]](http://proceedings.mlr.press/v28/agrawal13.pdf)
 - Auer, Peter, Nicolo Cesa-Bianchi, and Paul Fischer. "Finite-time analysis of the multiarmed bandit problem." Machine learning 47 (2002): 235-256.[[pdf]](https://link.springer.com/content/pdf/10.1023/A:1013689704352.pdf)
-- Chu, Wei, et al. "Contextual bandits with linear payoff functions." Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics. JMLR Workshop and Conference Proceedings, 2011. [[pdf]](http://proceedings.mlr.press/v15/chu11a/chu11a.pdf) 
+- Chu, Wei, et al. "Contextual bandits with linear payoff functions." Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics. JMLR Workshop and Conference Proceedings, 2011. [[pdf]](http://proceedings.mlr.press/v15/chu11a/chu11a.pdf)
+- Abbasi-Yadkori, Yasin, Dávid Pál, and Csaba Szepesvári. "Improved algorithms for linear stochastic bandits." Advances in neural information processing systems 24 (2011).[[pdf]](https://proceedings.neurips.cc/paper/2011/file/e1d5be1c7f2f456670de3d53c7b54f4a-Paper.pdf)
 
 ## Causal Inference
 - Rubin, Donald B. "Estimating causal effects of treatments in randomized and nonrandomized studies." Journal of educational Psychology 66.5 (1974): 688. [[pdf]](http://www.fsb.muohio.edu/lij14/420_paper_Rubin74.pdf)
