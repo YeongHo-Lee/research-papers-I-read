@@ -13,8 +13,8 @@
 - Chu, Wei, et al. "Contextual bandits with linear payoff functions." Proceedings of the Fourteenth International Conference on Artificial Intelligence and Statistics. JMLR Workshop and Conference Proceedings, 2011. [[pdf]](http://proceedings.mlr.press/v15/chu11a/chu11a.pdf)
 - Abbasi-Yadkori, Yasin, Dávid Pál, and Csaba Szepesvári. "Improved algorithms for linear stochastic bandits." Advances in neural information processing systems 24 (2011).[[pdf]](https://proceedings.neurips.cc/paper/2011/file/e1d5be1c7f2f456670de3d53c7b54f4a-Paper.pdf)
 - Kim, Gi-Soo, and Myunghee Cho Paik. "Doubly-robust lasso bandit." Advances in Neural Information Processing Systems 32 (2019).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/d60678e8f2ba9c540798ebbde31177e8-Paper.pdf)
-- 
 - Tiwari, Mo, et al. "Banditpam: Almost linear time k-medoids clustering via multi-armed bandits." Advances in Neural Information Processing Systems 33 (2020): 10211-10222.[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2020/file/73b817090081cef1bca77232f4532c5d-Paper.pdf)
+- Jun, Kwang-Sung, et al. "Top arm identification in multi-armed bandits with batch arm pulls." Artificial Intelligence and Statistics. PMLR, 2016.[[pdf]](http://proceedings.mlr.press/v51/jun16.pdf)
 
 
 ## Causal Inference
