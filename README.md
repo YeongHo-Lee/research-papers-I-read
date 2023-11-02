@@ -3,7 +3,7 @@
 - Click a [pdf] link to see the paper.
 
 # Machine Learning
-- Ghahramani, Zoubin, and Geoffrey E. Hinton. The EM algorithm for mixtures of factor analyzers. Vol. 60. Technical Report CRG-TR-96-1, University of Toronto, 1996.[[pdf]]([https://d1wqtxts1xzle7.cloudfront.net/3415062/The_EM_algorithm_for_mixtures_of_factor_analyzers-libre.pdf?1390831661=&response-content-disposition=inline%3B+filename%3DThe_EM_algorithm_for_mixtures_of_factor.pdf&Expires=1693294662&Signature=TOfFdhhvcnuNQ52lWiBIpkCpEl4djrdgezH4xyRlTG3uvX7jvBNcSPy1lXQd--s4CugRrGWxxD~zHBx-eMt3sK5N4Rp8p7tfzPSTfU0G34d6f8Pmb-BjIYl2b2P6LnoPwkL5sO0tRl~TQ0ia6TGQUj7NVYy6-fD-ye2cSiWunXMYnhMmL7l15lA-2rxQdFOMngtvbKcsn-1PhU5eVHjuFH1ZK-0-EsRkWS6N0M8YtWqJ3R11flZQWC5oxEnMtOkqLI9wRIvJdeJHVl90KgELb2Bic01DFbMM~HHLTKJoGypxlQUUSZXF303f6GMMDyMyIUN1LjT8zPyAqcZNNMeMPQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA](https://www.cs.toronto.edu/~hinton/absps/tr-96-1.pdf))
+- Ghahramani, Zoubin, and Geoffrey E. Hinton. The EM algorithm for mixtures of factor analyzers. Vol. 60. Technical Report CRG-TR-96-1, University of Toronto, 1996.[[pdf]](https://www.cs.toronto.edu/~hinton/absps/tr-96-1.pdf)
 
 
 ## Multi-armed Bandit
