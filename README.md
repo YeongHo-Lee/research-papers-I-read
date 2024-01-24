@@ -4,7 +4,7 @@
 
 # Machine Learning
 - Ghahramani, Zoubin, and Geoffrey E. Hinton. The EM algorithm for mixtures of factor analyzers. Vol. 60. Technical Report CRG-TR-96-1, University of Toronto, 1996.[[pdf]](https://www.cs.toronto.edu/~hinton/absps/tr-96-1.pdf)
-
+- Chen, Tianqi, and Carlos Guestrin. "Xgboost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)
 
 ## Multi-armed Bandit
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/1772690.1772758)
@@ -34,3 +34,7 @@
 - Vinyals, Oriol, et al. "Matching networks for one shot learning." Advances in neural information processing systems 29 (2016).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2016/file/90e1357833654983612fb05e3ec9148c-Paper.pdf)
 - Ravi, Sachin, and Hugo Larochelle. "Optimization as a model for few-shot learning." International conference on learning representations. 2016.[[pdf]](https://openreview.net/pdf?id=rJY0-Kcll)
 - Kingma, Diederik P., and Max Welling. "Auto-encoding variational bayes." arXiv preprint arXiv:1312.6114 (2013).[[pdf]](https://arxiv.org/pdf/1312.6114.pdf)
+- Vaswani, Ashish, et al. "Attention is all you need." Advances in neural information processing systems 30 (2017).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.[[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
+- Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).[[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
+- Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems 27 (2014).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
