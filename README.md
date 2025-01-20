@@ -10,6 +10,7 @@
 - Kim, Jingu, and Haesun Park. Sparse nonnegative matrix factorization for clustering. Georgia Institute of Technology, 2008.[[pdf]](https://repository.gatech.edu/bitstream/handle/1853/20058/GT-CSE-08-01.pdf?sequence=1&isAllowed=y)
 - Gaussier, Eric, and Cyril Goutte. "Relation between PLSA and NMF and implications." Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval. 2005.[[pdf]](https://www.academia.edu/download/49776774/Relation_between_PLSA_and_NMF_and_implic20161021-6474-w93zlu.pdf)
 - Zhang, Liang, et al. "Diversity balancing for two-stage collaborative filtering in recommender systems." Applied Sciences 10.4 (2020): 1257.[[pdf]](https://www.mdpi.com/2076-3417/10/4/1257/pdf)
+- Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. "The elements of statistical learning: data mining, inference, and prediction." (2017).[[pdf]](https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/10524/Contents.pdf?sequence=1)
 
 ## Multi-armed Bandit
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/1772690.1772758)
@@ -24,6 +25,7 @@
 - Jun, Kwang-Sung, et al. "Scalable generalized linear bandits: Online computation and hashing." Advances in Neural Information Processing Systems 30 (2017).[[pdf]](https://proceedings.neurips.cc/paper/2017/file/28dd2c7955ce926456240b2ff0100bde-Paper.pdf)
 - Li, Lihong, Yu Lu, and Dengyong Zhou. "Provably optimal algorithms for generalized linear contextual bandits." International Conference on Machine Learning. PMLR, 2017.[[pdf]](http://proceedings.mlr.press/v70/li17c/li17c.pdf)
 - Agrawal, Shipra, and Navin Goyal. "Analysis of thompson sampling for the multi-armed bandit problem." Conference on learning theory. JMLR Workshop and Conference Proceedings, 2012.[[pdf]](http://proceedings.mlr.press/v23/agrawal12/agrawal12.pdf)
+- Slivkins, Aleksandrs. "Introduction to multi-armed bandits." Foundations and Trends® in Machine Learning 12.1-2 (2019): 1-286.[[pdf]](https://www.nowpublishers.com/article/DownloadSummary/MAL-068)
 
 
 ## Causal Inference
