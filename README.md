@@ -5,6 +5,11 @@
 # Machine Learning
 - Ghahramani, Zoubin, and Geoffrey E. Hinton. The EM algorithm for mixtures of factor analyzers. Vol. 60. Technical Report CRG-TR-96-1, University of Toronto, 1996.[[pdf]](https://www.cs.toronto.edu/~hinton/absps/tr-96-1.pdf)
 - Chen, Tianqi, and Carlos Guestrin. "Xgboost: A scalable tree boosting system." Proceedings of the 22nd acm sigkdd international conference on knowledge discovery and data mining. 2016.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/2939672.2939785)
+- Efendi, Achmad, and Hafidz Wahyu Ramadhan. "Parameter estimation of multinomial logistic regression model using least absolute shrinkage and selection operator (LASSO)." AIP Conference Proceedings. Vol. 2021. No. 1. AIP Publishing, 2018.[[pdf]](https://pubs.aip.org/aip/acp/article-pdf/doi/10.1063/1.5062766/14168150/060002_1_online.pdf)
+- Dareddy, Manoj Reddy. "Recommender Systems: Research Direction." Proceedings of the Tenth ACM International Conference on Web Search and Data Mining. 2017.
+- Kim, Jingu, and Haesun Park. Sparse nonnegative matrix factorization for clustering. Georgia Institute of Technology, 2008.[[pdf]](https://repository.gatech.edu/bitstream/handle/1853/20058/GT-CSE-08-01.pdf?sequence=1&isAllowed=y)
+- Gaussier, Eric, and Cyril Goutte. "Relation between PLSA and NMF and implications." Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval. 2005.[[pdf]](https://www.academia.edu/download/49776774/Relation_between_PLSA_and_NMF_and_implic20161021-6474-w93zlu.pdf)
+- Zhang, Liang, et al. "Diversity balancing for two-stage collaborative filtering in recommender systems." Applied Sciences 10.4 (2020): 1257.[[pdf]](https://www.mdpi.com/2076-3417/10/4/1257/pdf)
 
 ## Multi-armed Bandit
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/1772690.1772758)
@@ -15,6 +20,10 @@
 - Kim, Gi-Soo, and Myunghee Cho Paik. "Doubly-robust lasso bandit." Advances in Neural Information Processing Systems 32 (2019).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/d60678e8f2ba9c540798ebbde31177e8-Paper.pdf)
 - Tiwari, Mo, et al. "Banditpam: Almost linear time k-medoids clustering via multi-armed bandits." Advances in Neural Information Processing Systems 33 (2020): 10211-10222.[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2020/file/73b817090081cef1bca77232f4532c5d-Paper.pdf)
 - Jun, Kwang-Sung, et al. "Top arm identification in multi-armed bandits with batch arm pulls." Artificial Intelligence and Statistics. PMLR, 2016.[[pdf]](http://proceedings.mlr.press/v51/jun16.pdf)
+- Foster, Dylan, and Alexander Rakhlin. "Beyond ucb: Optimal and efficient contextual bandits with regression oracles." International Conference on Machine Learning. PMLR, 2020.[[pdf]](http://proceedings.mlr.press/v119/foster20a/foster20a.pdf)
+- Jun, Kwang-Sung, et al. "Scalable generalized linear bandits: Online computation and hashing." Advances in Neural Information Processing Systems 30 (2017).[[pdf]](https://proceedings.neurips.cc/paper/2017/file/28dd2c7955ce926456240b2ff0100bde-Paper.pdf)
+- Li, Lihong, Yu Lu, and Dengyong Zhou. "Provably optimal algorithms for generalized linear contextual bandits." International Conference on Machine Learning. PMLR, 2017.[[pdf]](http://proceedings.mlr.press/v70/li17c/li17c.pdf)
+- Agrawal, Shipra, and Navin Goyal. "Analysis of thompson sampling for the multi-armed bandit problem." Conference on learning theory. JMLR Workshop and Conference Proceedings, 2012.[[pdf]](http://proceedings.mlr.press/v23/agrawal12/agrawal12.pdf)
 
 
 ## Causal Inference
@@ -25,6 +34,9 @@
 - Kreif, Noémi, et al. "Evaluation of the effect of a continuous treatment: a machine learning approach with an application to treatment for traumatic brain injury." Health economics 24.9 (2015): 1213-1228.[[pdf]](https://onlinelibrary.wiley.com/doi/epdf/10.1002/hec.3189)
 - Fong, Christian, Chad Hazlett, and Kosuke Imai. "Covariate balancing propensity score for a continuous treatment: Application to the efficacy of political advertisements." The Annals of Applied Statistics 12.1 (2018): 156-177.[[pdf]](https://imai.fas.harvard.edu/research/files/CBGPS.pdf)
 - Johansson, Fredrik, Uri Shalit, and David Sontag. "Learning representations for counterfactual inference." International conference on machine learning. PMLR, 2016.[[pdf]](http://proceedings.mlr.press/v48/johansson16.pdf)
+- Hainmueller, Jens. "Entropy balancing for causal effects: A multivariate reweighting method to produce balanced samples in observational studies." Political analysis 20.1 (2012): 25-46.[[pdf]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=1904869)
+- Tübbicke, Stefan. "Entropy balancing for continuous treatments." Journal of Econometric Methods 11.1 (2022): 71-89.[[pdf]](https://www.degruyter.com/document/doi/10.1515/jem-2021-0002/pdf)
+- 
 
 
 # Deep Learning
