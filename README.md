@@ -38,3 +38,10 @@
 - Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.[[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).[[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
 - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems 27 (2014).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+
+# Others
+- Choi, Byungjin, et al. "Electrocardiographic biomarker based on machine learning for detecting overt hyperthyroidism." European Heart Journal-Digital Health 3.2 (2022): 255-264.[[pdf]](https://academic.oup.com/ehjdh/article-pdf/3/2/255/47912114/ztac013.pdf)
+- Tayal, Bhupendar, et al. "Thyroid dysfunction and electrocardiographic changes in subjects without arrhythmias: a cross-sectional study of primary healthcare subjects from Copenhagen." BMJ open 9.6 (2019): e023854.[[pdf](https://bmjopen.bmj.com/content/bmjopen/9/6/e023854.full.pdf)
+- Goyal, S., and V. Goyal. "A study of electrocardiographic changes in thyroid disorders." Int J Med Res Rev 4.4 (2016): 486-490.[[pdf]](https://ijmrr.medresearch.in/index.php/ijmrr/article/view/507/983)
+- Ohal, Supriya Shrimant, Raja A. Bhagchandani, and Mrunal S. Phatak. "Electrocardiographic changes in hypothyroidism–a cross-sectional study." National Journal of Physiology, Pharmacy and Pharmacology 9.5 (2019): 459-459.[[pdf]](https://njppp.com/fulltext/28-1552560065.pdf)
+- Lin, Chin, et al. "Artificial intelligence-enabled electrocardiography contributes to hyperthyroidism detection and outcome prediction." Communications Medicine 4.1 (2024): 42.[[pdf]](https://www.nature.com/articles/s43856-024-00472-4.pdf)
