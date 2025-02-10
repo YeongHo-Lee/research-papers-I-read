@@ -10,8 +10,7 @@
 - Kim, Jingu, and Haesun Park. Sparse nonnegative matrix factorization for clustering. Georgia Institute of Technology, 2008.[[pdf]](https://repository.gatech.edu/bitstream/handle/1853/20058/GT-CSE-08-01.pdf?sequence=1&isAllowed=y)
 - Gaussier, Eric, and Cyril Goutte. "Relation between PLSA and NMF and implications." Proceedings of the 28th annual international ACM SIGIR conference on Research and development in information retrieval. 2005.[[pdf]](https://www.academia.edu/download/49776774/Relation_between_PLSA_and_NMF_and_implic20161021-6474-w93zlu.pdf)
 - Zhang, Liang, et al. "Diversity balancing for two-stage collaborative filtering in recommender systems." Applied Sciences 10.4 (2020): 1257.[[pdf]](https://www.mdpi.com/2076-3417/10/4/1257/pdf)
-- Hastie, Trevor, Robert Tibshirani, and Jerome Friedman. "The elements of statistical learning: data mining, inference, and prediction." (2017).[[pdf]](https://thuvienso.hoasen.edu.vn/bitstream/handle/123456789/10524/Contents.pdf?sequence=1)
-- Bishop, Christopher M., and Nasser M. Nasrabadi. Pattern recognition and machine learning. Vol. 4. No. 4. New York: springer, 2006.[[pdf]](http://crowley-coutaz.fr/jlc/Courses/2020/PRML/ENSI3.PRML.S6.Encoders.pdf)
+
 
 ## Multi-armed Bandit
 - Li, Lihong, et al. "A contextual-bandit approach to personalized news article recommendation." Proceedings of the 19th international conference on World wide web. 2010.[[pdf]](https://dl.acm.org/doi/pdf/10.1145/1772690.1772758)
