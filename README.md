@@ -38,7 +38,8 @@
 - Johansson, Fredrik, Uri Shalit, and David Sontag. "Learning representations for counterfactual inference." International conference on machine learning. PMLR, 2016.[[pdf]](http://proceedings.mlr.press/v48/johansson16.pdf)
 - Hainmueller, Jens. "Entropy balancing for causal effects: A multivariate reweighting method to produce balanced samples in observational studies." Political analysis 20.1 (2012): 25-46.[[pdf]](https://papers.ssrn.com/sol3/Delivery.cfm?abstractid=1904869)
 - Tübbicke, Stefan. "Entropy balancing for continuous treatments." Journal of Econometric Methods 11.1 (2022): 71-89.[[pdf]](https://www.degruyter.com/document/doi/10.1515/jem-2021-0002/pdf)
-- 
+- Fernández-Loría, Carlos, and Foster Provost. "Causal classification: Treatment effect estimation vs. outcome prediction." Journal of Machine Lea)rning Research 23.59 (2022): 1-35.[[pdf]](https://www.jmlr.org/papers/volume23/19-480/19-480.pdf)
+- Li, Jiuyong, et al. "A general framework for causal classification." International Journal of Data Science and Analytics 11 (2021): 127-139.[[pdf]](https://link.springer.com/content/pdf/10.1007/s41060-021-00249-1.pdf)
 
 
 # Deep Learning
@@ -52,6 +53,9 @@
 - Redmon, Joseph, et al. "You only look once: Unified, real-time object detection." Proceedings of the IEEE conference on computer vision and pattern recognition. 2016.[[pdf]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Redmon_You_Only_Look_CVPR_2016_paper.pdf)
 - Mnih, Volodymyr, et al. "Playing atari with deep reinforcement learning." arXiv preprint arXiv:1312.5602 (2013).[[pdf]](https://arxiv.org/pdf/1312.5602.pdf)
 - Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems 27 (2014).[[pdf]](https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf)
+- Lee, Seongju, et al. "Sleepyco: Automatic sleep scoring with feature pyramid and contrastive learning." Expert Systems with Applications 240 (2024): 122551.[[github]](https://github.com/gist-ailab/SleePyCo)
+- Gu, Albert, and Tri Dao. "Mamba: Linear-time sequence modeling with selective state spaces." arXiv preprint arXiv:2312.00752 (2023).[[pdf]](https://minjiazhang.github.io/courses/fall24-resource/Mamba.pdf)
+
 
 # Others
 - Choi, Byungjin, et al. "Electrocardiographic biomarker based on machine learning for detecting overt hyperthyroidism." European Heart Journal-Digital Health 3.2 (2022): 255-264.[[pdf]](https://academic.oup.com/ehjdh/article-pdf/3/2/255/47912114/ztac013.pdf)
@@ -59,3 +63,4 @@
 - Goyal, S., and V. Goyal. "A study of electrocardiographic changes in thyroid disorders." Int J Med Res Rev 4.4 (2016): 486-490.[[pdf]](https://ijmrr.medresearch.in/index.php/ijmrr/article/view/507/983)
 - Ohal, Supriya Shrimant, Raja A. Bhagchandani, and Mrunal S. Phatak. "Electrocardiographic changes in hypothyroidism–a cross-sectional study." National Journal of Physiology, Pharmacy and Pharmacology 9.5 (2019): 459-459.[[pdf]](https://njppp.com/fulltext/28-1552560065.pdf)
 - Lin, Chin, et al. "Artificial intelligence-enabled electrocardiography contributes to hyperthyroidism detection and outcome prediction." Communications Medicine 4.1 (2024): 42.[[pdf]](https://www.nature.com/articles/s43856-024-00472-4.pdf)
+- Kwon, Shinjae, et al. "At-home wireless sleep monitoring patches for the clinical assessment of sleep quality and sleep apnea." Science Advances 9.21 (2023): eadg9671.[[pdf]](https://www.science.org/doi/pdf/10.1126/sciadv.adg9671)
